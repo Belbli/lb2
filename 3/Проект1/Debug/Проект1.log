@@ -1,0 +1,5 @@
+﻿  Source.cpp
+e:\labs\2сем\lb_1\3\проект1\source.cpp(11): warning C4018: <: несоответствие типов со знаком и без знака
+e:\labs\2сем\lb_1\3\проект1\source.cpp(7): warning C4101: temp: неиспользованная локальная переменная
+  Проект1.vcxproj -> E:\labs\2сем\Lb_1\3\Debug\Проект1.exe
+  Проект1.vcxproj -> E:\labs\2сем\Lb_1\3\Debug\Проект1.pdb (Partial PDB)
